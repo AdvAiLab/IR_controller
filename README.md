@@ -4,3 +4,6 @@
 ## 已完成的控制
 * 循環扇(開、關)
 * 冷氣(開、關)
+
+## 參考
+http://wyj-learning.blogspot.com/2017/12/arduino-06.html
