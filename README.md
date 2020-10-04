@@ -1,5 +1,6 @@
 # IR controller
 實驗室的萬能遙控器，使用Aduino相容的設備
+<img src="docs/demo.gif" width="80%"/>
 
 ## 已完成的控制
 * 循環扇(開、關)
